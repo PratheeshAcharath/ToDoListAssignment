@@ -1,4 +1,4 @@
-@import url(/ToDoList-App-main/images/);
+
 
 
 
@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Lato', sans-serif;
-    background : url(../images/pexels-dayvison-de-oliveira-silva-5695481.jpg);
+    
     background-size:cover
     
 }
@@ -38,7 +38,7 @@ body {
 }
 
 .myCtn header {
-    color: #2C272E;
+    color: #72ad7c;
     font-size: 24px;
     font-weight: 700;
     margin-bottom: 20px;
@@ -95,7 +95,7 @@ body {
 }
 
 .myCtn .butt:hover {
-    background: linear-gradient(45deg, #4A69BB, #617BE3);
+    background: linear-gradient(45deg, #bfc3cf, #9da2b6);
 }
 
 .myCtn .butt:focus {
